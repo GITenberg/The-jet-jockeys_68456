@@ -1,0 +1,25 @@
+_repo: The-jet-jockeys_68456
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stockheker, R. W.
+    gutenberg_agent_id: '54782'
+    url: http://www.gutenberg.org/2009/agents/54782
+description: ''
+gutenberg_issued: '2022-07-04'
+identifiers:
+  gutenberg: '68456'
+language: en
+pgterms:marc905: 20220602163527stockheker
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Standard Magazines, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The jet jockeys
+url: http://www.gutenberg.org/ebooks/68456
