@@ -1,11 +1,16 @@
 _repo: The-jet-jockeys_68456
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68456-h/images/cover.jpg
 creator:
   author:
     agent_name: Stockheker, R. W.
     gutenberg_agent_id: '54782'
     url: http://www.gutenberg.org/2009/agents/54782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68456#The-jet-jockeys
 gutenberg_issued: '2022-07-04'
 identifiers:
   gutenberg: '68456'
